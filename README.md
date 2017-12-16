@@ -1,1 +1,3 @@
 # graphit
+Dependices:
+sympy
